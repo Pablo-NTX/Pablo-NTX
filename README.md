@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pablo-NTX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pablo @NTXEmbedded.com
+- 👀 I’m interested in technologic
+- 🌱 I’m currently learning linux/programming relative skill
+- 💞️ I’m looking to collaborate on ?
+- 📫 How to reach me ?
 
 <!---
 Pablo-NTX/Pablo-NTX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
